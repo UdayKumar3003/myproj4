@@ -1,6 +1,6 @@
 P1=ramesh
-p2= suresh
+P2=suresh
 
-echo "$p1 and $p2"
+echo "$P1 and $P2"
 echo "hi hello"
 
