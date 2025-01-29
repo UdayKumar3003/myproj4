@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUMBER=$P1
+NUMBER=$1
 echo "enter the number:"
 
 if [ $NUMBER -gt 10 ]
